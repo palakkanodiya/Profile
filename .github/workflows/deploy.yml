@@ -1,6 +1,3 @@
-###CI/CD CODE
-
-
 name: 🚀 Auto Deploy on Push
 
 on:
